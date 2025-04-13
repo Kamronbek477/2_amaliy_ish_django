@@ -1,0 +1,1 @@
+# 2_amaliy_ish_django
